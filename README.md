@@ -5,3 +5,6 @@ I'm Kadu, a twitch.tv streamer, in my show I talk about Maker things, like Inter
 ## List
 
  - [StreamDeck BLE (Bluetooth Low Energy)](https://github.com/kadu/arduino_stream_deck) -  ESP32 as Bluetooth Keyboard send keystrokes to host
+
+ - [Freedeck](https://github.com/FreeYourStream/freedeck-hardware) -  The FreeDeck aims to be a Free/OpenSource replacement for Elgatos Streamdeck and similar
+
