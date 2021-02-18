@@ -37,4 +37,4 @@ I'm Kadu, a twitch.tv streamer, in my show I talk about Maker things, like Inter
 
 ## Inspirations
 
-![Arduino Pro Micro Macro Keyboard Version 2.0](https://www.youtube.com/watch?v=IDlcxLQ1SbY)
+![Arduino Pro Micro Macro Keyboard Version 2.0](https://github.com/kadu/streamdeck-catalog/blob/main/images/inspira_keyboard.png?raw=true) - [Arduino Pro Micro Macro Keyboard Version 2.0](https://www.youtube.com/watch?v=IDlcxLQ1SbY)
