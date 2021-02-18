@@ -34,3 +34,7 @@ I'm Kadu, a twitch.tv streamer, in my show I talk about Maker things, like Inter
 
 ![enter image description here](https://github.com/kadu/streamdeck-catalog/blob/main/images/st05.jpg?raw=true)
 - [Arcade Macro Board (Stream Deck clone)](https://ballarathackerspace.org.au/meta/projects/arcade-macro-board-stream-deck-clone)
+
+## Inspirations
+
+![Arduino Pro Micro Macro Keyboard Version 2.0](https://www.youtube.com/watch?v=IDlcxLQ1SbY)
