@@ -27,7 +27,7 @@ I'm Kadu, a twitch.tv streamer, in my show I talk about Maker things, like Inter
 - [Freedeck](https://camo.githubusercontent.com/e1d0940e1aaca74ae34875678cc74f5d72e546328c1ab8759e0d814924e4b765/687474703a2f2f69332e7974696d672e636f6d2f76692f5f54636c696955324b34382f6d617872657364656661756c742e6a7067)
 
 ![enter image description here](https://github.com/kadu/streamdeck-catalog/blob/main/images/st04.jpg?raw=true)
--[MisteRdeck - Arduino-based MIDI Stream Deck](https://www.thingiverse.com/thing:4627779)
+-[MisteRdeck - Arduino-based MIDI Stream Deck](https://github.com/renatoaugustii/StreamDeck)
 
 
 - [Stream Desk](https://meusetup.com/stream-deck-barato) - [Video](https://www.youtube.com/watch?time_continue=1078&v=74-SsNCA_5E&feature=emb_title)
