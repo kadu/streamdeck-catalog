@@ -13,6 +13,7 @@ I'm Kadu, a twitch.tv streamer, in my show I talk about Maker things, like Inter
 ![enter image description here](https://github.com/kadu/arduino_stream_deck/raw/master/assets/live01.jpg)
 -  [StreamDeck BLE (Bluetooth Low Energy)](https://github.com/kadu/arduino_stream_deck) - ESP32 as Bluetooth Keyboard send keystrokes to host
 
+- [Freedeck](https://github.com/FreeYourStream/freedeck-hardware) -  The FreeDeck aims to be a Free/OpenSource replacement for Elgatos Streamdeck and similar
 
 ![enter image description here](https://github.com/kadu/streamdeck-catalog/blob/main/images/st01.jpg?raw=true)
 -  [Building a DIY Stream Deck (Mini Macro Keyboard)](https://www.partsnotincluded.com/diy-stream-deck-mini-macro-keyboard/)
